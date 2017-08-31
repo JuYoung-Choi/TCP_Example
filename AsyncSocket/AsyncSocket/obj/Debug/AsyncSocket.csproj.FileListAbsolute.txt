@@ -1,0 +1,1 @@
+c:\users\elrois\documents\visual studio 2015\Projects\AsyncSocket\AsyncSocket\bin\Debug\AsyncSocket.exe.config

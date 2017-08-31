@@ -1,0 +1,9 @@
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\obj\Debug\TCP Client.csprojResolveAssemblyReference.cache
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\obj\Debug\TCP_Client.ClientForm.resources
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\obj\Debug\TCP_Client.Properties.Resources.resources
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.Cache
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Client\obj\Debug\TCP Client.pdb

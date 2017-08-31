@@ -1,0 +1,9 @@
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\bin\Debug\TCP Server.exe.config
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\bin\Debug\TCP Server.exe
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\bin\Debug\TCP Server.pdb
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\obj\Debug\TCP_Server.ServerForm.resources
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\obj\Debug\TCP Server.csproj.GenerateResource.Cache
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\obj\Debug\TCP Server.exe
+C:\Users\ELROIS\documents\visual studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\obj\Debug\TCP Server.pdb
+C:\Users\ELROIS\Documents\Visual Studio 2015\Projects\AsyncSocket\TCP Server\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
